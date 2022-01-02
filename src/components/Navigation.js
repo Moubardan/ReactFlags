@@ -5,6 +5,9 @@ function Navigation() {
       <NavLink to="/" className="nav-active">
         Accueil
       </NavLink>
+      <NavLink to="/news" className="nav-active">
+        News
+      </NavLink>
       <NavLink to="/a-propos" className="nav-active">
         A propos
       </NavLink>
